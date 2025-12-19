@@ -1,0 +1,1 @@
+This repository will be used by Devin DeepWiki to compare current whiteboard canvas solutions and to identify differences in architectural design and functionality and features. Currently it contains 3 products: tldraw, tldraw-old and excalidraw.
